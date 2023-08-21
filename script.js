@@ -31,7 +31,6 @@ var frutas =[
     "UVAIA"
 
 ];
-const tecnologias = ["java", "react", "node", "python", "php"];
 const palavraSecreta =
       frutas[Math.floor(Math.random() * frutas.length)];
 const letrasErradas = [];
